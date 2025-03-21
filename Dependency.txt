@@ -1,0 +1,24 @@
+//Server
+
+npm i bcryptjs
+npm i cloudinary
+npm i cookie-parser
+npm i cors
+npm i dotenv
+npm i express
+npm i jsonwebtoken
+npm i mongoose
+npm i multer
+npm i nodemon
+
+//client
+npm i @reduxjs/toolkit
+npm i react-redux   
+npm i axios
+npm i react-router-dom
+npm i tailwindcss-animate   
+
+
+MongoDb
+User: kimrankhan464
+Pass: b7I2kC4lLrVcuuR4
